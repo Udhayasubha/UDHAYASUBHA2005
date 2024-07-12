@@ -1,0 +1,142 @@
+[
+    {
+        "Brand": "GIGABYTE",
+        "Category": "MotherBoard",
+        "Title": "GIGABYTE B760 Gaming X AX DDR4 (LGA 1700/ Intel/ B760/ ATX/ DDR4/ Triple M.2/ PCIe 4.0/ Front USB 3.2 Gen2X2 Type-C/WiFi 6E/ 2.5GbE LAN/Q-Flash Plus/PCIe EZ-Latch/Gaming Motherboard)",
+        "Price": "₹ 19,999",
+        "image": "https://m.media-amazon.com/images/I/81R57r9JKfL._SX679_.jpg"
+    },
+    {
+        "Brand": "ASUS",
+        "Category": "MotherBoard",
+        "Title": "ASUS INTEL PRIME H770-PLUS D4 13.12th Generation LGA1700 Compatible with H770 Equipped ATX Mother Board",
+        "Price": "₹ 19,999",
+        "image": "https://m.media-amazon.com/images/I/615NezuaQqL._SY450_.jpg"
+    },
+    {
+        "Brand": "GIGABYTE",
+        "Category": "MotherBoard",
+        "Title": "GIGABYTE AMD B550 AORUS Elite AX V2 ATX Motherboard with 12+2 Phases Digital Twin Power Design, Enlarged Surface Heatsinks, Dual PCIe 4.0/3.0 x4 M.2 with Dual Thermal Guards, Front USB Type-C, DDR4",
+        "Price": "₹ 16,190",
+        "image": "https://m.media-amazon.com/images/I/71RafI7AF+L._SX679_.jpg"
+    },
+    {
+        "Brand": "ASUS",
+        "Category": "MotherBoard",
+        "Title": "ASUS B550 Prime B550M-A WiFi II (Ryzen AM4) Micro ATX Motherboard with Dual M.2, PCIe 4.0, Wi-Fi 6, 1 Gb Ethernet, HDMI, DVI-D, D-Sub, SATA 6 Gbps, USB 3.2 Gen 2 Type-A, and Aura Sync RGB, DDR4",
+        "Price": "₹ 12,750",
+        "image": "https://m.media-amazon.com/images/I/71RafI7AF+L._SX679_.jpg"
+    },
+    {
+        "Brand": "MSI",
+        "Category": "MotherBoard",
+        "Title": "MSI PRO B760M-E DDR4 Motherboard | Supports 12th/13th Gen Intel Core Processor | 1x PCI-E x16, Gen4 x4 M.2 | Dual Channel DDR4 4800+MHz/OC | 4xEZ Debug LED | Steel Armor | RGB Mystic Light | Wi-Fi 6E",
+        "Price": "₹ 10,349",
+        "image": "https://m.media-amazon.com/images/I/71RafI7AF+L._SX679_.jpg"
+    },
+    {
+        "Brand": "Intel",
+        "Category": "Processor",
+        "Title": "Intel Core i7-13700K Desktop Processor 16 cores (8 P-cores + 8 E-cores) 30M Cache, up to 5.4 GHz Socket LGA 1700",
+        "Price": "₹ 39,037",
+        "image": "https://m.media-amazon.com/images/I/61m0zH-NiTL._SX679_.jpg"
+    },
+    {
+        "Brand": "Intel",
+        "Category": "Processor",
+        "Title": "Intel Core i5 12600K 12 Gen Generation Desktop PC Processor CPU with 20MB Cache and up to 4.90 GHz Clock Speed 3 Years Warranty with Fan LGA 1700 Socket No Graphic Card Required",
+        "Price": "₹ 27,180",
+        "image": "https://m.media-amazon.com/images/I/51saxT83YWL._SY450_.jpg"
+    },
+    {
+        "Brand": "Intel",
+        "Category": "Processor",
+        "Title": "Intel Core i9-11900K Desktop Processor 1, 8 Cores up to 5.3 GHz Unlocked LGA1200 (500 Series & Select 400 Series Chipset) 125W",
+        "Price": "₹ 35,200",
+        "image": "https://m.media-amazon.com/images/I/71diouNMRHL._SY450_.jpg"
+    },
+    {
+        "Brand": "AMD",
+        "Category": "Processor",
+        "Title": "AMD 7000 Series Ryzen 9 7950X Desktop Processor 16 cores 32 Threads 80 MB Cache 4.5 GHz Up to 5.7 GHz Socket AM5, 600 Series Chipset (100-100000514WOF)",
+        "Price": "₹ 59,799",
+        "image": "https://m.media-amazon.com/images/I/61h2WOmf+2L._SX679_.jpg"
+    },
+    {
+        "Brand": "AMD",
+        "Category": "Processor",
+        "Title": "AMD 5000 Series Ryzen 7 5800X Desktop Processor 8 cores 16 Threads 36 MB Cache 3.8 GHz Upto 4.7 GHz AM4 Socket 500 Series Chipset (100-100000063WOF)",
+        "Price": "₹ 22,899",
+        "image": "https://m.media-amazon.com/images/I/61IIbwz-+ML._SX679_.jpg"
+    },
+    {
+        "Brand": "AMD",
+        "Category": "Processor",
+        "Title": "AMD 5000 Series Ryzen 5 5600 Desktop Processor 6 cores 12 Threads 35 MB Cache 3.5 GHz Upto 4.2 GHz AM4 Socket 500 Series Chipset (100-100000927BOX)",
+        "Price": "₹ 14,599",
+        "image": "https://m.media-amazon.com/images/I/51GUexhiieL._SX679_.jpg"
+    },
+    {
+        "Brand": "ASUS",
+        "Category": "Graphics Card",
+        "Title": "ASUS ROG Strix LC AMD Radeon RX 6900 XT OC Edition pci_e_x16 PCIe 4.0, 16GB GDDR6, HDMI 2.1, 240mm Radiator, 600mm tubing, GPU Tweak II Gaming Graphics Card",
+        "Price": "₹ 2,25,020",
+        "image": "https://m.media-amazon.com/images/I/81kKpvxUnmL._SY450_.jpg"
+    },
+    {
+        "Brand": "NVIDIA",
+        "Category": "Graphics Card",
+        "Title": "ZOTAC GAMING Geforce RTX 3090 AMP Core Holo 24GB GDDR6X, 384 bit, 1755/19500, HDCP, Three DP, PCI_E, HDMI, Premium Pack",
+        "Price": "₹ 3,14,999",
+        "image": "https://m.media-amazon.com/images/I/61HS+KHtTYL._AC_UY218_.jpg"
+    },
+    {
+        "Brand": "NVIDIA",
+        "Category": "Graphics Card",
+        "Title": "GIGABYTE AORUS GeForce RTX 3090 Xtreme WATERFORCE Water Block Cooling System, 24GB 384-bit GDDR6X, GV-N3090AORUSX WB-24GD WB 24G Video Graphics Card (Graphics Card Interface: pci_e_x16)",
+        "Price": "₹ 2,34,999",
+        "image": "https://m.media-amazon.com/images/I/71t0AHecd+L._SX679_.jpg"
+    },
+    {
+        "Brand": "TEAMGROUP",
+        "Category": "RAM",
+        "Title": "TEAMGROUP T-Force Delta RGB DDR5 Ram 64GB Kit (2x32GB) 6000MHz (PC5-48000) CL38 Desktop Gaming Memory Module Ram (White) for 600 Series Chipset - FF4D564G6000HC38ADC01",
+        "Price": "₹ 25,240",
+        "image": "https://m.media-amazon.com/images/I/81JEfdUVCTL._SX679_.jpg"
+    },
+    {
+        "Brand": "G.SKILL",
+        "Category": "RAM",
+        "Title": "G.SKILL Trident Z Neo 32GB (2 * 16GB) DDR4 3600MHz CL18-22-22-42 1.35V Desktop Memory RAM - F4-3600C18D-32GTZN",
+        "Price": "₹ 8,972",
+        "image": "https://m.media-amazon.com/images/I/61eWHqJJX2L._SY450_.jpg"
+    },
+    {
+        "Brand": "ZEBRONICS",
+        "Category": "Cabinet",
+        "Title": "ZEBRONICS Hornet Mid-Tower Premium Gaming Cabinet -, ATX, 4 ARGB Fan, LED Control Switch, Window Tempered Glass Panel, USB 3.0, Top AIO Cooler Support, Magnetic Dust Filter (White)",
+        "Price": "₹ 5,593",
+        "image": "https://m.media-amazon.com/images/I/81O6gM05VUL._SX679_.jpg"
+    },
+    {
+        "Brand": "Logitech",
+        "Category": "Mouse",
+        "Title": "Logitech G502 Hero High Performance Wired Gaming Mouse, Hero 25K Sensor, 25,600 DPI, RGB, Adjustable Weights, 11 Programmable Buttons, On-Board Memory, PC/Mac - Black",
+        "Price": "₹ 3,895",
+        "image": "https://m.media-amazon.com/images/I/4189N8RLVYL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+        "Brand": "Logitech",
+        "Category": "Keyboard",
+        "Title": "Logitech G PRO Mechanical Gaming Keyboard, Ultra Portable Tenkeyless Design, Detachable Micro USB Cable, 16.8 Million Color LIGHTSYNC RGB Backlit Keys",
+        "Price": "₹ 24,953",
+        "image": "https://m.media-amazon.com/images/I/51K1mE5uVyL._AC_UY218_.jpg"
+    },
+    {
+        "Brand": "Elgato",
+        "Category": "Stream Control",
+        "Title": "Elgato Stream Deck XL - Advanced Stream Control with 32 customizable LCD keys, for Windows 10 and macOS 10.13 or later",
+        "Price": "₹ 24,812",
+        "image": "https://m.media-amazon.com/images/I/71aY+mfIxiL._SX679_.jpg"
+    }
+]

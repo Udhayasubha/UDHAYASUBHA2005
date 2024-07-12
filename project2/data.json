@@ -1,0 +1,30 @@
+[
+    {
+        "Brand": "ZEBRONICS",
+        "Category": "Cabinet",
+        "Title": "ZEBRONICS Hornet Mid-Tower Premium Gaming Cabinet -, ATX, 4 ARGB Fan, LED Control Switch, Window Tempered Glass Panel, USB 3.0, Top AIO Cooler Support, Magnetic Dust Filter (White)",
+        "Price": "₹ 5,593",
+        "image": "https://m.media-amazon.com/images/I/81O6gM05VUL._SX679_.jpg"
+    },
+    {
+        "Brand": "Logitech",
+        "Category": "Mouse",
+        "Title": "Logitech G502 Hero High Performance Wired Gaming Mouse, Hero 25K Sensor, 25,600 DPI, RGB, Adjustable Weights, 11 Programmable Buttons, On-Board Memory, PC/Mac - Black",
+        "Price": "₹ 3,895",
+        "image": "https://m.media-amazon.com/images/I/4189N8RLVYL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+        "Brand": "Logitech",
+        "Category": "Keyboard",
+        "Title": "Logitech G PRO Mechanical Gaming Keyboard, Ultra Portable Tenkeyless Design, Detachable Micro USB Cable, 16.8 Million Color LIGHTSYNC RGB Backlit Keys",
+        "Price": "₹ 24,953",
+        "image": "https://m.media-amazon.com/images/I/51K1mE5uVyL._AC_UY218_.jpg"
+    },
+    {
+        "Brand": "Elgato",
+        "Category": "Stream Control",
+        "Title": "Elgato Stream Deck XL - Advanced Stream Control with 32 customizable LCD keys, for Windows 10 and macOS 10.13 or later",
+        "Price": "₹ 24,812",
+        "image": "https://m.media-amazon.com/images/I/71aY+mfIxiL._SX679_.jpg"
+    }
+]
